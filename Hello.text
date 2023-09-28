@@ -1,1 +1,15 @@
 new change
+
+J:\My Work\repoTow (main -> origin)
+λ git pull origin
+Enter passphrase for key '/c/Users/Moon/.ssh/id_rsa':
+hint: Diverging branches can't be fast-forwarded, you need to either:
+hint:
+hint:   git merge --no-ff
+hint:
+hint: or:
+hint:
+hint:   git rebase
+hint:
+hint: Disable this message with "git config advice.diverging false"
+fatal: Not possible to fast-forward, aborting.
