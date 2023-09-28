@@ -15,5 +15,12 @@ hint: Disable this message with "git config advice.diverging false"
 fatal: Not possible to fast-forward, aborting.
 
 
+<<<<<<< HEAD
  change on pc
 welcome back
+=======
+
+welcome back
+
+change on site
+>>>>>>> refs/remotes/origin/main
