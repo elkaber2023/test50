@@ -6,4 +6,4 @@ div.style.backgroundColor = "green";
 let p = document.createElement("p");
 p.style.cssText = "color:greenyallow;background-color:red;";
 
-let span = document.createElement("span");
+let span = document.createElement("span
